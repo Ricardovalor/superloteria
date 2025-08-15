@@ -1,3 +1,5 @@
+[![CI Status](https://github.com/Ricardovalor/superloteria/actions/workflows/ci.yml/badge.svg)](https://github.com/Ricardovalor/superloteria/actions)
+
 [![CI](https://github.com/Ricardovalor/superloteria/actions/workflows/blank.yml/badge.svg)](https://github.com/Ricardovalor/superloteria/actions)
 
 # lottery_prediction
