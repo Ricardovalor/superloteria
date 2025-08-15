@@ -13,4 +13,3 @@ Veja diretórios: src, data, notebooks, infra, scripts, tests.
 3. Abra no VS Code: `code .`
 
 [![CI](https://github.com/Ricardovalor/superloteria/actions/workflows/blank.yml/badge.svg)](https://github.com/Ricardovalor/superloteria/actions)
-
